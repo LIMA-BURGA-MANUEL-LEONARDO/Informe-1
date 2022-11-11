@@ -381,4 +381,121 @@ con un fusible conectado para proteger el circuito contra corriente excesiva**
  **34)¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición
 de los interruptores?**
  
-![](https://github.com/smvaca2/Informe1/blob/b2a97979858931ccf666df0ff7a266516f27aadf/ej1.PNG)
+![image](https://user-images.githubusercontent.com/116760257/201382339-843407a0-856e-4445-b45c-5dc8270ece4c.png)
+
+ *Respuesta*= A través de R<sub>5
+ 
+ 
+ *36) Las diferentes secciones de un sistema estereofónico están representadas por los
+bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor
+para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de
+AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un
+momento dado, solamente una sección puede ser conectada al amplificador**
+ 
+
+ 
+ ![image](https://user-images.githubusercontent.com/116760257/201382533-3d461d6a-bb10-4cfd-8752-07ad81733e8f.png)
+
+
+ **38)Explique cómo mediría la resistencia de R2 en la figura 2-72**
+ 
+
+Uniendo las 2 resistencias dado que están en serie y utilizando la formula para calcular una
+resistencia en serie
+ 
+ ![image](https://user-images.githubusercontent.com/116760257/201382948-7afc8213-4fa8-4333-88c4-a3b7fcba2730.png)
+ 
+ 
+ **40)En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que
+sale de la fuente de voltaje sin importar la posición del interruptor**
+ 
+
+Conectando el cable rojo del amperímetro a V<sub>S</sub> y conectando el cable negro a VI
+ 
+![image](https://user-images.githubusercontent.com/116760257/201383103-4f053b4d-40ac-4f76-80c4-c3f3ed57a60a.png)
+ 
+ **42)Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de
+cada resistor presente en la figura 2-70.**
+ 
+Se debe colocar en paralelo para medir cada resistor
+ 
+ 
+**44)¿Cuánta resistencia está midiendo el ohmmetro de la figura 2-75?**
+ 
+*Respuesta* 10kΩ
+ 
+ ![image](https://user-images.githubusercontent.com/116760257/201383264-e12f9d5c-8766-4033-b11d-469e1f00b9dc.png)
+ 
+
+ **46)¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?**
+ 
+*Respuesta*= el multímetro de 4 ½ dígitos mostrará hasta 19.999 recuentos de resolución
+ 
+ 
+***4. VIDEO***
+ 
+ https://youtu.be/sErxlbIVVKw
+ 
+
+***5. CONCLUSIONES***
+ 
+ 
+En el trabajo de este informe para la tarea 1 se comprendió de una manera práctica el uso de
+ 
+la notación científica y notación de ingeniería para realizar problemas o para usarlos al
+ 
+momento de utilizar los prefijos métricos para el desarrollo de conversiones de unidades
+ 
+métricas.
+ 
+Además se repasó los conceptos como los de la estructura atómica, los electrónes y cómo con
+ 
+estos podemos calcular las cargas. También se resolvió calculos con el voltaje, corriente y las
+
+ resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las
+ 
+resistenicas y los tipos de resistencias y de circuitos electrónicos que existen.
+ 
+En este informe se identificó los dispositivos de protección electrónica y sus usos, el
+ 
+funcionamiento de interruptores, cortacircuitos y fusibles.
+ 
+Con los resultados de este informe se pueden sentar buenas bases para continuar con la
+ 
+materia de fundamentos de circuitos eléctricos, puesto que se han analizado y estudiado las
+ 
+
+bases de esta materia en esta tarea.
+ 
+ 
+ 
+***6. BIBLIOGRAFÍA***
+ 
+ 
+ 
+*_Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.*
+ 
+*_Conversión de unidades. (s/f). Innoveduca.com. Recuperado el 17 de mayo de 2022, de*
+ 
+*http://www.innoveduca.com/files/propis/mates_unidadmedida/24_conversin_de_unidades.
+ 
+htm*
+ 
+*_Voltaje. (s/f). Energyeducation.ca. Recuperado el 17 de mayo de 2022, de
+ 
+https://energyeducation.ca/Enciclopedia_de_Energia/index.php/Voltaje*
+ 
+*_La estructura atómica nuclear. (2013, octubre 9). Foro Nuclear.
+ 
+https://www.foronuclear.org/descubre-la-energia-nuclear/preguntas-y-respuestas/sobreenergia-nuclear/la-estructura-atomica-nuclear/*
+ 
+*_La carga eléctrica. (s/f). Xunta.gal. Recuperado el 17 de mayo de 2022, de
+ 
+https://www.edu.xunta.gal/espazoAbalar/sites/espazoAbalar/files/datos/1464947843/contido
+ 
+/11_la_carga_elctrica.html*
+ 
+*_Resistencias variables. (s/f). Ieslosalbares.es. Recuperado el 17 de mayo de 2022, de
+ 
+http://www.ieslosalbares.es/tecnologia/Electronica4eso/resistencias_variables.html*
+ 
