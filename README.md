@@ -28,4 +28,14 @@ _Identificar los dispositivos de protección de circuitos y sus usos
 ![image](https://user-images.githubusercontent.com/116760257/201370083-a0b567cb-ed34-408c-a9ad-dc4fe4eccc6b.png)
 
 
+![image](https://user-images.githubusercontent.com/116760257/201374620-ef3f8f67-0309-41a3-b053-af8fd52c9417.png)
+
+
+![image](https://user-images.githubusercontent.com/116760257/201374695-37525b25-68c0-41ca-a859-400e43b7c775.png)
+
+
+![image](https://user-images.githubusercontent.com/116760257/201374770-081b8d1f-0b17-4d65-b40f-63f8cb5e8fc8.png)
+
+
+
 
