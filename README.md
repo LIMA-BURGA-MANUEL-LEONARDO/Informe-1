@@ -42,6 +42,8 @@ _Identificar los dispositivos de protección de circuitos y sus usos
 ***3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS***
 ***====================EJERCICIOS CAPITULO
 1================================***
+
+
 **2)Exprese cada uno de los números siguientes en notación científica:**
 
 *a)1/500* = 2x10<sup>-3
@@ -112,4 +114,139 @@ _Identificar los dispositivos de protección de circuitos y sus usos
  
 *c)1.333x10<sup>9</sub>*= 1,333,000,000
  
+ **16) Exprese cada número en notación de ingeniería:**
  
+ 
+*a)9.81x10<sup>-3 </sub>*= 0,00981
+ 
+*b)4.81x10<sup>-4 </sub>*= 482x10<sup>-6
+ 
+*c)4.38x10<sup>-7 </sub>*= 438x10<sup>-9
+ 
+ **18)Multiplique los números siguientes y exprese cada resultado en notación de
+ingeniería:**
+ 
+*a)(32x10<sup>-3</sup>)(56x10<sup>3</sup>)*= 1792x10<sup>-3+3 </sup>
+ 
+=1792x10<sup>0 </sup>= 1.792x10<sup>3
+ 
+*b)(1.2x10<sup>-6</sup>)(1.2x10<sup>6</sup>)*= 1.44x10<sup>-6+(-6) </sup>
+ 
+=1.44x10<sup>-12
+ 
+*c)100(55x10<sup>-3</sup>)*= 5.5x10<sup>0 </sup>
+ 
+ **20)Exprese cada número del problema 13 en ohms por medio de un prefijo métrico**
+ 
+ 
+*a)89,000*= 89x10<sup>3</sup>= 89kΩ
+ 
+*b)450,000*= 450x10<sup>0</sup>= 450kΩ
+ 
+*c)12,040,000,000,000*= 12.04x10<sup>12</sup>= 12.04TΩ
+ 
+ **22)Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo
+métrico:**
+ 
+ 
+*a)31x10<sup>-3</sup>A*= 0.031A = 31mA
+ 
+*b)5.5x10<sup>3</sup>V*= 5550V = 5.5kV
+ 
+*c)20x10<sup>-12</sup>F*= 0.00000000002F = 20pF
+ 
+ **24)Exprese cada una de las cantidades siguientes por medio de prefijos métricos:**
+ 
+ 
+*a)2.5x10<sup>-12</sup>A*= 2.5pA
+ 
+*b)8x10<sup>9</sup>Hz*= 8GHz
+ 
+*c)4.7x10<sup>3</sup>Ω*= 4.7kΩ
+ 
+ 
+ **26)Exprese cada cantidad en notación de ingeniería:**
+ 
+*a)5μA*= 5x10<sup>-6</sup>A
+ 
+*b)43mV*= 43x10<sup>-3</sup>V
+ 
+*c)275kΩ*= 275x10<sup>3</sup>Ω
+ 
+*d)10MW*= 10x10<sup>6</sup>W
+ 
+ **28)Determine lo siguiente:**
+ 
+*a)El número de microamperes en 1 miliampere*
+ 
+1mA= 1x10<sup>-3</sup>A= 1x10<sup>3</sup>= 1μA
+ 
+*b)El número de milivolts en 0.05 kilovolts*
+ 
+0.05kV= 0.05x10<sup>3</sup>V= 50x10<sup>3</sup>mA= 50mA
+ 
+*c)El número de megohms en 0.02kilohms*
+ 
+ 0.02kΩ= 0.02x10<sup>3</sup>Ω= 20x10<sup>-6</sup>MΩ= 0.00002MΩ
+ 
+ *d)El número de kilowatts en 155miliwatts*
+ 
+155mW= 155x10<sup>-3</sup>W= 0.15x10<sup>-3</sup>MΩ= 0.000155kW
+ 
+ 
+ **30)Realice las operaciones:**
+ 
+*a)10kΩ÷(2.2kΩ+10kΩ)*= 10x10<sup>3</sup>÷(2.2x10<sup>3</sup>+10x10<sup>3</sup>)
+
+ =10000÷(2200+10000)= 0.82Ω
+ 
+ 
+ ***=======================EJERCICIOS CAPITULO
+2========================================***
+
+ 
+ 
+ 
+ **2)¿Cuál es la carga en coulombs del núcleo de un átomo de cloro?**
+ 
+Q=número de electrones/6.25x10<sup>18</sup>
+ 
+Q=(17/6.25x10<sup>18</sup>)=2.72x10<sup>-18
+ 
+ 
+**4)¿Cuántos electrones se requieren para producir 80μC (microcoulombs) de carga?**
+ 
+Q=número de electrones/6.25x10<sup>18</sup> **80μC=80x10<sup>- 6</sup>**
+ 
+6.25x10<sup>18</sup> x Q = número de electrones
+ 
+6.25x10<sup>18</sup>x 80x10<sup>-6</sup> = 5x10<sup>14
+ 
+ 
+**6)Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál
+es el voltaje
+a través del resistor?**
+ 
+v=W/Q
+ 
+v=500J/100C= *5V*
+ 
+ 
+**8)¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?**
+ 
+W= vQ
+ 
+W= 12 x 2.5 = 30J
+ 
+ 
+**10)Determine la corriente en cada uno de los siguientes casos:**
+ 
+Formula de la corriente: I=Q/t
+ 
+*a)75C en 1s*= 75/1= 75A
+ 
+*b)10C en 0.5s*= 10/0.5= 20A
+ 
+*c)5C en 2s*= 5/2= 2.5A
+ 
+
