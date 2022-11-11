@@ -43,8 +43,11 @@ _Identificar los dispositivos de protección de circuitos y sus usos
 ***====================EJERCICIOS CAPITULO
 1================================***
 **2)Exprese cada uno de los números siguientes en notación científica:**
+
 *a)1/500* = 2x10<sup>-3
+ 
 *b)1/2000*= 5x10<sup>-4
+ 
 *c)1/5,000,000*= 2x10<sup>-7
  
 
